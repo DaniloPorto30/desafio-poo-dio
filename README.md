@@ -1,4 +1,53 @@
-<h1> Desafio: Aprenda na Prática Programação Orientada a Objetos</h1>
+<h1 align="center">
+ Desafio: Aprenda na Prática Programação Orientada a Objetos
+</h1>
+
+  
+# Indice
+
+🔹 -[Sobre](#sobre).<br>
+🔹 -[Tecnologias utilizadas](#tecnologias-utilizadas).<br>
+🔹 -[Como rodar aplicação](#development-server).
+
+
+<h2 align="center"> # Sobre o projeto 🧮</h2>
+
+🔹 O projeto foi criado dentro do curso Bootcamp Philips na plataforma da DIO com o intuito de colocarmos em prática todo conteúdo estudado durante o curso.
+
+-----
+<h2 align="center"> # Tecnologias utilizadas 📚 </h2>
+
+<p>
+
+✅  Spring Boot Java JDK 11<br>
+✅  IDE para desenvolvimento Java Spring Boot (usei IntelliJ IDEA)<br>
+✅  Git<br>
+✅  Conta no GitHub<br>
+</p>
+
+-----
+
+<h2 align="center"><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"> Java Development </h2>
+
+<p>
+✅ Google - Refazer o projeto do zero <br>
+🔹 Criar o projeto - [Spring Initializr](https://start.spring.io/).<br>
+</p>
+
+-----
+
+<h2 align="center"> # Como rodar a aplicação 📌 </h2>
+
+<p>
+✅  Git - Clonando o projeto <br>
+ 🔹 Copie o Link do repositorio.<br>
+ 🔹 Abra o seu terminal da sua nova pasta e digite: <strong>git clone https://github.com/DaniloPorto30/desafio-poo-dio</strong><br>
+</p><br>
+
+<h2 align="center"> Aprenda na Prática Programação Orientada a Objetos</h2>
+
+-----
+
 
 <p> Sejam bem-vindos ao desafio: <strong>APRENDENDO NA PRÁTICA O PARADIGMA DE ORIENTAÇÃO A OBJETOS.</strong><br>Desafio este que tive a honra de co-criar com a plataforma de cursos online <strong><a href="https://web.digitalinnovation.one/">DIGITAL INNOVATION ONE</a></strong> 💛🧡 e disponibilizado de forma gratuita para a comunidade dos desenvolvedores Java.<br>
     💎 O objetivo principal é colocar em prática umas das principais ferramentas da OO: <strong>ABSTRAÇÃO, ENCAPSULAMENTO, HERANÇA E POLIMORFISMO,</strong> através de um projeto Java. </p>
